@@ -208,3 +208,33 @@
   background-color: yellowgreen;
 }
  */
+
+/* PLACE-CONTENT JUSTIFY-CONTNET ALIGN-CONTENT EXAMPLE */
+ /* .wrapper{
+  display: grid;
+  background-color: grey;
+  gap: 5px;
+  height: 250vh;
+  grid-template-columns: repeat(4,100px);
+  grid-template-rows: repeat(4,100px);
+  /* place-content: end start; */
+  /*justify-content:start;
+  align-content: end;
+}
+
+
+.header{
+  background-color: aqua;
+
+}
+.content{
+  background-color: black;
+
+}
+
+.nav{
+  background-color: brown;
+}
+.footer{
+  background-color: yellowgreen;
+} */
