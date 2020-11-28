@@ -108,3 +108,37 @@
 } */
 
 
+/* NAMEING OF LINES YOU CAN NAME YOUR ROWS AND COLUMNS
+.wrapper{
+  display: grid;
+  grid-template-columns: [first]100px,[second]100px,[third]100px,[fourth]100px,[fifth]100px;
+  grid-template-rows: repeat(4,100px);
+}
+
+
+.header{
+  background-color: aqua;
+  grid-column-start:first ;
+  grid-column-end: fifth;
+}
+.content{
+  background-color: black;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start:2;
+  grid-row-end:4;
+  
+
+}
+
+.nav{
+  background-color: brown;
+  grid-row-start:2 ;
+  grid-row-end:4;
+}
+.footer{
+  background-color: yellowgreen;
+  grid-column-start: 1;
+  grid-column-end:5;
+} */
+
