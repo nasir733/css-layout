@@ -178,3 +178,33 @@
   background-color: yellowgreen;
   grid-area:footer;
 } */
+
+/* CSS ALIGN ITEMS CENTER EXAMPLE */
+/* .wrapper{
+  display: grid;
+  gap: 5px;
+  height: 59vh;
+  grid-template-columns: repeat(4,100fr);
+  grid-template-rows: repeat(4,100fr);
+  justify-items: center;
+  align-items: end;
+
+}
+
+
+.header{
+  background-color: aqua;
+
+}
+.content{
+  background-color: black;
+
+}
+
+.nav{
+  background-color: brown;
+}
+.footer{
+  background-color: yellowgreen;
+}
+ */
